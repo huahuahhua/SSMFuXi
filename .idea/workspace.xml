@@ -7,9 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="562ff224-95f6-493b-8d4d-6e3b12bfc282" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="562ff224-95f6-493b-8d4d-6e3b12bfc282" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +97,7 @@
       <workItem from="1696085480497" duration="404000" />
       <workItem from="1696085906256" duration="1507000" />
       <workItem from="1696087424854" duration="1731000" />
-      <workItem from="1696120589182" duration="2980000" />
+      <workItem from="1696120589182" duration="3302000" />
     </task>
     <task id="LOCAL-00001" summary="版本2">
       <created>1696124080244</created>
@@ -108,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696124080244</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="版本3">
+      <created>1696126425200</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696126425200</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,7 +121,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="版本2" />
-    <option name="LAST_COMMIT_MESSAGE" value="版本2" />
+    <MESSAGE value="版本3" />
+    <option name="LAST_COMMIT_MESSAGE" value="版本3" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
