@@ -8,10 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="562ff224-95f6-493b-8d4d-6e3b12bfc282" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/text" beforeDir="false" afterPath="$PROJECT_DIR$/text" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,12 +99,24 @@
       <workItem from="1696085480497" duration="404000" />
       <workItem from="1696085906256" duration="1507000" />
       <workItem from="1696087424854" duration="1731000" />
-      <workItem from="1696120589182" duration="2321000" />
+      <workItem from="1696120589182" duration="2980000" />
     </task>
+    <task id="LOCAL-00001" summary="版本2">
+      <created>1696124080244</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696124080244</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="版本2" />
+    <option name="LAST_COMMIT_MESSAGE" value="版本2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
